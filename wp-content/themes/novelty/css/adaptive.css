@@ -1,0 +1,178 @@
+#wrapper{ width: 100%; }
+#wrapper.boxed{ max-width: 1230px; }
+.container{ max-width: 960px; }
+#wrapper.boxed, .container{ width: 100%; }
+
+
+
+@media only screen and (min-width:300px) and (max-width:1200px){
+    #top-area .container,  
+    #header .container,
+    #content,
+    #footer .container{
+        padding-left:50px;
+        padding-right:50px;
+    }
+
+}
+
+@media only screen and (min-width:100px) and (max-width:300px){
+
+    #top-area .container,  
+    #header,
+    #content,
+    #footer .container{
+        padding-left:10px;
+        padding-right:10px;
+    }
+
+}
+
+
+
+@media only screen and (min-width:768px) and (max-width:979px){
+    .tab-nav li a{padding:10px;}
+    .page-title span{display:none;}
+}
+
+
+
+
+@media only screen and (max-width:900px){
+    [class*="span"]{ padding: 0 10px 0px 10px; }
+    .row{ margin: 0 -10px; }
+    #header.style1 #menu > li > a{ padding: 0 20px; }
+}
+
+
+
+@media (max-width:800px){
+
+    #menu{background:none !important;}
+    #menu .container{
+        background:none !important;
+        border:none !important;
+    }
+    .res-menu{ display:block; }
+    .res-menu ul{ visibility: visible !important; }
+
+    #header nav{ 
+        border: none !important; 
+        padding: 0;
+        margin-bottom: 50px;
+    }
+    #header.style2 .container{ border-bottom: none; }
+
+    #header.style2{ text-align: center; }
+    #header.style2{ margin-bottom: 0; }
+    #header.style2 .logo,
+    #header.style2 nav{ 
+        float: none; 
+        margin-bottom: 50px;
+    }
+
+    #header.style6 .logo, 
+    #header.style7 .logo, 
+    #header.style8 .logo, 
+    #header.style9 .logo, 
+    #header.style10 .logo,
+    #header.style8 nav, 
+    #header.style9 nav, 
+    #header.style10 nav{ float: none; }
+
+    #header .container.text-center.bb{ border-bottom: none; }
+
+
+    #header.style6 #search, 
+    #header.style7 #search {
+        float: none;
+        width: 100%;
+        max-width: none;
+    }
+
+    #header.style6 #search input, 
+    #header.style7 #search input{  width: 100%; }
+
+
+    #top-area [class*="span"]{ text-align: center; }
+    #top-area ul{ display: inline-block; }
+
+    .full-slider{ margin-top: 0 }
+
+    #content-area > .aq-template-wrapper > .aq-block-bmd_revslider_block > div{ margin-top: 0 !important; }
+
+    .latest-post article{ margin-bottom: 50px; }
+    .latest-post article:last-child{
+        margin-bottom:0 !important;
+        padding-bottom:0 !important;
+    }
+    .latest-post img{ width: 100%; }
+
+    .row{
+        width:auto;
+        max-width:none;
+        min-width:none;
+        margin:0;
+    }
+    [class*="span"]{
+        width:100%;
+        float:none;
+        min-height:none;
+        padding:0;
+        position:relative;
+        -webkit-box-sizing:border-box;
+        -moz-box-sizing:border-box;
+        box-sizing:border-box;
+    }
+
+    #menu,
+    .flexslider .caption{display:none;}
+
+
+    .portfolio-single ul.p-info{ width: 100%;}
+    .portfolio-single ul.p-info li{
+        float: none;
+        padding: 0;
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+        border-right: none;
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+    }
+    .portfolio-single ul.p-info li:last-child{
+        margin-bottom: 0;
+        padding-bottom: 0;
+        border-bottom: none;
+    }
+
+    .portfolio-items.col4 article,
+    .aq-block-bmd_client_block .client > div{ width: 33.333%; }
+
+
+    #content-area.alignright{float:none !important;}
+    #content-area.alignleft{float:none !important;}
+    .copyright-area{text-align:center;}
+    .copyright-area ul{display:inline-block;}
+    .copyright-area .footer-menu li{margin:0 5px;}
+    .copyright-area .social{float:none;margin-top:15px;}
+    .portfolio.carousel article{padding-bottom:30px !important;}
+    .portfolio-items article[class*='span']{width:50% !important;}
+    .page-title h1, .page-title h2, .page-title h3, .page-title h4, .page-title h5, .page-title h6{float:none;}
+    .client [class*="span"]{margin-bottom:-1px;}
+}
+
+
+
+@media (max-width:550px){
+    .portfolio-items.col4 article,
+    .portfolio-items.col3 article,
+    .aq-block-bmd_client_block .client > div{width:49.5%;}
+}
+
+
+@media (max-width:420px){
+    .portfolio-items article,
+    .portfolio-items article img,
+    .aq-block-bmd_client_block .client > div{width:100% !important;}
+
+}

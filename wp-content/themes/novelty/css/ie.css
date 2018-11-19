@@ -1,0 +1,11 @@
+.wpcf7-textarea{ margin-bottom: 5px; }
+
+.portfolio-context{ display: none; }
+
+.portfolio-items article:hover .portfolio-context{ display: block; }
+
+.p-full-link{ 
+	background-color: #000;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0); 
+}

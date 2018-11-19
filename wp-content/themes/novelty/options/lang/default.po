@@ -1,0 +1,2125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Novelty\n"
+"POT-Creation-Date: 2013-03-25 13:04+0400\n"
+"PO-Revision-Date: 2013-03-25 13:05+0400\n"
+"Last-Translator: \n"
+"Language-Team: bingumd <bingumd@gmail.com>\n"
+"Language: En\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../breadcrumbs.php:25
+msgid "Archive by category"
+msgstr ""
+
+#: ../breadcrumbs.php:30
+msgid "Search results for"
+msgstr ""
+
+#: ../breadcrumbs.php:100
+msgid "Posts tagged"
+msgstr ""
+
+#: ../breadcrumbs.php:106
+msgid "Articles posted by "
+msgstr ""
+
+#: ../breadcrumbs.php:110
+msgid "Error 404"
+msgstr ""
+
+#: ../breadcrumbs.php:115
+msgid "Page"
+msgstr ""
+
+#: ../comments.php:12
+msgid "Pingback:"
+msgstr ""
+
+#: ../comments.php:14
+msgid "(Edit)"
+msgstr ""
+
+#: ../general.php:238
+msgid "No location found for the entered address."
+msgstr ""
+
+#: ../general.php:240
+msgid "Invalid request. Did you enter an address?"
+msgstr ""
+
+#: ../general.php:242
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+
+#: ../general.php:246
+msgid "Unable to contact Google API service."
+msgstr ""
+
+#: ../page-meta-boxes.php:12
+msgid "General Page Seting"
+msgstr ""
+
+#: ../page-meta-boxes.php:21
+msgid "Page title (optional)"
+msgstr ""
+
+#: ../page-meta-boxes.php:29
+msgid "Sidebar Template"
+msgstr ""
+
+#: ../page-meta-boxes.php:41
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: ../page-meta-boxes.php:68
+msgid "Post Format Seting"
+msgstr ""
+
+#: ../page-meta-boxes.php:76
+msgid "Video Post Format"
+msgstr ""
+
+#: ../page-meta-boxes.php:83
+msgid "Vimeo Video ID"
+msgstr ""
+
+#: ../page-meta-boxes.php:90
+msgid "YouTube Video ID"
+msgstr ""
+
+#: ../sidebar.php:10
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../sidebar.php:24 ../sidebar.php:60 ../sidebar.php:88 ../sidebar.php:106
+msgid "Footer Area 1"
+msgstr ""
+
+#: ../sidebar.php:32 ../sidebar.php:68 ../sidebar.php:96
+msgid "Footer Area 2"
+msgstr ""
+
+#: ../sidebar.php:40 ../sidebar.php:76
+msgid "Footer Area 3"
+msgstr ""
+
+#: ../sidebar.php:48
+msgid "Footer Area 4"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:482
+msgid "Last Backup : "
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:685
+#: ../page-builder/blocks/clients.php:124
+#: ../page-builder/blocks/slider.php:151
+msgid "Upload"
+msgstr ""
+
+#: ../admin/front-end/options.php:43 ../admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: ../admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr ""
+
+#: ../admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../admin/functions/include/404.php:6
+msgid "404 Page Option"
+msgstr ""
+
+#: ../admin/functions/include/404.php:14
+msgid "Heading text"
+msgstr ""
+
+#: ../admin/functions/include/404.php:21
+msgid "Subheading text"
+msgstr ""
+
+#: ../admin/functions/include/404.php:28
+msgid "Show Search Form"
+msgstr ""
+
+#: ../admin/functions/include/backup.php:6
+msgid "Backup Options"
+msgstr ""
+
+#: ../admin/functions/include/backup.php:13
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: ../admin/functions/include/backup.php:17
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: ../admin/functions/include/backup.php:21
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: ../admin/functions/include/backup.php:25
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\""
+msgstr ""
+
+#: ../admin/functions/include/blog.php:6
+msgid "Single Blog Post"
+msgstr ""
+
+#: ../admin/functions/include/blog.php:14
+msgid "Blog Post Single Sidebar"
+msgstr ""
+
+#: ../admin/functions/include/footer.php:6
+msgid "Footer Option"
+msgstr ""
+
+#: ../admin/functions/include/footer.php:14
+msgid "Footer Column"
+msgstr ""
+
+#: ../admin/functions/include/footer.php:33
+msgid "Show / Hide copiright area"
+msgstr ""
+
+#: ../admin/functions/include/footer.php:40
+msgid "Copyright Text"
+msgstr ""
+
+#: ../admin/functions/include/footer.php:41
+msgid "Paste your text or HTML"
+msgstr ""
+
+#: ../admin/functions/include/general.php:6
+msgid "General Option"
+msgstr ""
+
+#: ../admin/functions/include/general.php:12
+msgid "Favicon"
+msgstr ""
+
+#: ../admin/functions/include/general.php:13
+msgid ""
+"Upload a 16px x 16px Png/Gif image that will represent your websites favicon."
+msgstr ""
+
+#: ../admin/functions/include/general.php:19
+msgid "Tracking Code"
+msgstr ""
+
+#: ../admin/functions/include/general.php:20
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme. This should be something like "
+"<br><br>&lt;script type=&quot;text/javascript&quot;&gt;<br> ... <br>&lt;/"
+"script&gt;"
+msgstr ""
+
+#: ../admin/functions/include/general.php:26
+msgid "Custom Style"
+msgstr ""
+
+#: ../admin/functions/include/general.php:27
+msgid "You can write here your custom css, that will replace the default css."
+msgstr ""
+
+#: ../admin/functions/include/header.php:6
+msgid "Header Options"
+msgstr ""
+
+#: ../admin/functions/include/header.php:12
+msgid "Upload Logo"
+msgstr ""
+
+#: ../admin/functions/include/header.php:13
+#: ../admin/functions/include/header.php:20
+msgid "Choose an image that you want to use as the logo in header"
+msgstr ""
+
+#: ../admin/functions/include/header.php:19
+msgid "Upload Retina Logo"
+msgstr ""
+
+#: ../admin/functions/include/page.php:6
+msgid "Page Options"
+msgstr ""
+
+#: ../admin/functions/include/page.php:14
+msgid "Categories Page sidebar"
+msgstr ""
+
+#: ../admin/functions/include/page.php:34
+msgid "Search Page sidebar"
+msgstr ""
+
+#: ../admin/functions/include/page.php:54
+msgid "Archive Page sidebar"
+msgstr ""
+
+#: ../admin/functions/include/page.php:75
+msgid "Tag Page sidebar"
+msgstr ""
+
+#: ../admin/functions/include/page.php:96 ../page-builder/blocks/blog.php:80
+#: ../page-builder/blocks/latestblog.php:103
+msgid "Read More Text"
+msgstr ""
+
+#: ../admin/functions/include/page.php:103 ../page-builder/blocks/blog.php:87
+#: ../page-builder/blocks/latestblog.php:110
+msgid "Read More Icon"
+msgstr ""
+
+#: ../admin/functions/include/page.php:110 ../page-builder/blocks/blog.php:73
+#: ../page-builder/blocks/latestblog.php:96
+msgid "Lenght of Excerpt"
+msgstr ""
+
+#: ../admin/functions/include/portfolio.php:6
+msgid "Portfolio Option"
+msgstr ""
+
+#: ../admin/functions/include/portfolio.php:14
+msgid "Portfolio Slug"
+msgstr ""
+
+#: ../admin/functions/include/portfolio.php:29
+msgid "Client Icon Class"
+msgstr ""
+
+#: ../admin/functions/include/portfolio.php:37
+msgid "URL Icon Class"
+msgstr ""
+
+#: ../admin/functions/include/portfolio.php:45
+msgid "Skills Icon Class"
+msgstr ""
+
+#: ../admin/functions/include/portfolio.php:53
+msgid "Year Icon Class"
+msgstr ""
+
+#: ../admin/functions/include/social.php:6
+#: ../shortcodes/shortcodes-editor.php:45
+msgid "Social"
+msgstr ""
+
+#: ../admin/functions/include/social.php:15
+msgid "Enter your Twitter URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:22
+msgid "Enter your Facebook URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:29
+msgid "Enter your Dribbble URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:36
+msgid "Enter your Pinterset URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:43
+msgid "Enter your Vimeo URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:50
+msgid "Enter your Linkedin URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:57
+msgid "Enter your Google URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:64
+msgid "Enter your Flickr URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:71
+msgid "Enter your Lastfm URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:78
+msgid "Enter your Forrst URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:85
+msgid "Enter your Skype user name."
+msgstr ""
+
+#: ../admin/functions/include/social.php:92
+msgid "Enter your Picassa URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:99
+msgid "Enter your Youtube URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:106
+msgid "Enter your Behance URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:113
+msgid "Enter your Tumblr URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:120
+msgid "Enter your Blogger URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:127
+msgid "Enter your Delicious URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:134
+msgid "Enter your Digg URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:141
+msgid "Enter your Friendfeed URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:148
+msgid "Enter your Github URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:155
+msgid "Enter your Wordpress URL."
+msgstr ""
+
+#: ../admin/functions/include/social.php:162
+msgid "Enter your Rss URL."
+msgstr ""
+
+#: ../customizer/options.php:22 ../customizer/options.php:534
+#: ../customizer/options.php:758 ../customizer/options.php:1246
+#: ../customizer/options.php:1339 ../customizer/options.php:1502
+msgid "Text Color"
+msgstr ""
+
+#: ../customizer/options.php:31 ../customizer/options.php:767
+#: ../customizer/options.php:987
+msgid "Heading Color"
+msgstr ""
+
+#: ../customizer/options.php:41 ../customizer/options.php:785
+#: ../customizer/options.php:979 ../customizer/options.php:1059
+msgid "Border Color"
+msgstr ""
+
+#: ../customizer/options.php:50 ../customizer/options.php:404
+#: ../customizer/options.php:1105 ../customizer/options.php:1276
+#: ../customizer/options.php:1348
+msgid "Link Color"
+msgstr ""
+
+#: ../customizer/options.php:61 ../customizer/options.php:415
+#: ../customizer/options.php:1116 ../customizer/options.php:1286
+#: ../customizer/options.php:1358
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../customizer/options.php:72
+msgid "Post Title Color"
+msgstr ""
+
+#: ../customizer/options.php:83
+msgid "Post Title Hover Color"
+msgstr ""
+
+#: ../customizer/options.php:94
+msgid "Meta Color"
+msgstr ""
+
+#: ../customizer/options.php:104
+msgid "Meta Hover Color"
+msgstr ""
+
+#: ../customizer/options.php:114
+msgid "404 Heading Color"
+msgstr ""
+
+#: ../customizer/options.php:123
+msgid "404 Text Color"
+msgstr ""
+
+#: ../customizer/options.php:132
+msgid "Body Background Color"
+msgstr ""
+
+#: ../customizer/options.php:147 ../customizer/options.php:1005
+msgid "Heading Font Style"
+msgstr ""
+
+#: ../customizer/options.php:158
+msgid "Body Font Style"
+msgstr ""
+
+#: ../customizer/options.php:168
+msgid "Block Post Title Font Style"
+msgstr ""
+
+#: ../customizer/options.php:178
+msgid "Read More Font Style"
+msgstr ""
+
+#: ../customizer/options.php:188
+msgid "Meta Font Style"
+msgstr ""
+
+#: ../customizer/options.php:198
+msgid "404 Heading Font Style"
+msgstr ""
+
+#: ../customizer/options.php:208
+msgid "404 Text Font Style"
+msgstr ""
+
+#: ../customizer/options.php:224
+msgid "H1 Font Size"
+msgstr ""
+
+#: ../customizer/options.php:234
+msgid "H2 Font Size"
+msgstr ""
+
+#: ../customizer/options.php:244
+msgid "H3 Font Size"
+msgstr ""
+
+#: ../customizer/options.php:254
+msgid "H4 Font Size"
+msgstr ""
+
+#: ../customizer/options.php:264
+msgid "H5 Font Size"
+msgstr ""
+
+#: ../customizer/options.php:274
+msgid "H6 Font Size"
+msgstr ""
+
+#: ../customizer/options.php:284
+msgid "body Font Size"
+msgstr ""
+
+#: ../customizer/options.php:294
+msgid "Latest Post Title Font Size"
+msgstr ""
+
+#: ../customizer/options.php:304
+msgid "Read More Font Size"
+msgstr ""
+
+#: ../customizer/options.php:314
+msgid "Meta Font Size"
+msgstr ""
+
+#: ../customizer/options.php:324
+msgid "Breadcrumbs Font Size"
+msgstr ""
+
+#: ../customizer/options.php:334
+msgid "Blog Post Font Size"
+msgstr ""
+
+#: ../customizer/options.php:344
+msgid "404 Heading Font Size"
+msgstr ""
+
+#: ../customizer/options.php:354
+msgid "404 Text Font Size"
+msgstr ""
+
+#: ../customizer/options.php:370 ../customizer/options.php:971
+#: ../customizer/options.php:1031 ../customizer/options.php:1312
+#: ../customizer/options.php:1484
+msgid "Background Color"
+msgstr ""
+
+#: ../customizer/options.php:379
+msgid "Social Icon Color"
+msgstr ""
+
+#: ../customizer/options.php:389
+msgid "Social Icon Hover Color"
+msgstr ""
+
+#: ../customizer/options.php:426
+msgid "Current Link Color"
+msgstr ""
+
+#: ../customizer/options.php:435 ../customizer/options.php:507
+msgid "Menu Font Style"
+msgstr ""
+
+#: ../customizer/options.php:445 ../customizer/options.php:517
+msgid "Menu Font Size"
+msgstr ""
+
+#: ../customizer/options.php:460
+msgid "Sub Link Color"
+msgstr ""
+
+#: ../customizer/options.php:470
+msgid "Sub Link Hover Color"
+msgstr ""
+
+#: ../customizer/options.php:480
+msgid "Sub Link Border Color"
+msgstr ""
+
+#: ../customizer/options.php:489
+msgid "Sub Background Color"
+msgstr ""
+
+#: ../customizer/options.php:498
+msgid "Sub Border Color"
+msgstr ""
+
+#: ../customizer/options.php:543 ../customizer/options.php:794
+msgid "Hover Background Color"
+msgstr ""
+
+#: ../customizer/options.php:552
+msgid "Filtrable Link Color"
+msgstr ""
+
+#: ../customizer/options.php:563
+msgid "Filtrable Link Hover Color"
+msgstr ""
+
+#: ../customizer/options.php:574
+msgid "Filtrable Curent Link Color"
+msgstr ""
+
+#: ../customizer/options.php:583
+msgid "Filtrable Font Style"
+msgstr ""
+
+#: ../customizer/options.php:593
+msgid "Filtrable Font size"
+msgstr ""
+
+#: ../customizer/options.php:609
+msgid "Social Color"
+msgstr ""
+
+#: ../customizer/options.php:617
+msgid "Social Border Color"
+msgstr ""
+
+#: ../customizer/options.php:627
+msgid "Button Text Color"
+msgstr ""
+
+#: ../customizer/options.php:637
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: ../customizer/options.php:647 ../customizer/options.php:667
+msgid "Button Background Color"
+msgstr ""
+
+#: ../customizer/options.php:657
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: ../customizer/options.php:676
+msgid "Button Font Style"
+msgstr ""
+
+#: ../customizer/options.php:686
+msgid "Button Font Size"
+msgstr ""
+
+#: ../customizer/options.php:703
+msgid "Slider Text Color"
+msgstr ""
+
+#: ../customizer/options.php:712
+msgid "Slider Nav Color"
+msgstr ""
+
+#: ../customizer/options.php:722
+msgid "Slider Nav Hover Color"
+msgstr ""
+
+#: ../customizer/options.php:732
+msgid "Slider Nav Background Color"
+msgstr ""
+
+#: ../customizer/options.php:742
+msgid "Slider Nav Hover Background Color"
+msgstr ""
+
+#: ../customizer/options.php:776 ../customizer/options.php:996
+msgid "Icon Color"
+msgstr ""
+
+#: ../customizer/options.php:804
+msgid "Hover Border Color"
+msgstr ""
+
+#: ../customizer/options.php:822
+msgid "Standart Box Text"
+msgstr ""
+
+#: ../customizer/options.php:831
+msgid "Standart Box Background"
+msgstr ""
+
+#: ../customizer/options.php:840
+msgid "Standart Box Border"
+msgstr ""
+
+#: ../customizer/options.php:851
+msgid "Info Box Text"
+msgstr ""
+
+#: ../customizer/options.php:860
+msgid "Info Box Background"
+msgstr ""
+
+#: ../customizer/options.php:869
+msgid "Info Box Border"
+msgstr ""
+
+#: ../customizer/options.php:880
+msgid "Notification Box Text"
+msgstr ""
+
+#: ../customizer/options.php:889
+msgid "Notification Box Background"
+msgstr ""
+
+#: ../customizer/options.php:898
+msgid "Notification Box Border"
+msgstr ""
+
+#: ../customizer/options.php:909
+msgid "Warning Box Text"
+msgstr ""
+
+#: ../customizer/options.php:918
+msgid "Warning Box Background"
+msgstr ""
+
+#: ../customizer/options.php:927
+msgid "Warning Box Border"
+msgstr ""
+
+#: ../customizer/options.php:938
+msgid "Tips Box Text"
+msgstr ""
+
+#: ../customizer/options.php:947
+msgid "Tips Box Background"
+msgstr ""
+
+#: ../customizer/options.php:956
+msgid "Tips Box Border"
+msgstr ""
+
+#: ../customizer/options.php:1015
+msgid "Heading Font Size"
+msgstr ""
+
+#: ../customizer/options.php:1040
+msgid "Nav Background Color"
+msgstr ""
+
+#: ../customizer/options.php:1049
+msgid "Current Nav Border Top Color"
+msgstr ""
+
+#: ../customizer/options.php:1068
+msgid "Nav Text Color"
+msgstr ""
+
+#: ../customizer/options.php:1078
+msgid "Nav Font Style"
+msgstr ""
+
+#: ../customizer/options.php:1088
+msgid "Nav Font Size"
+msgstr ""
+
+#: ../customizer/options.php:1127
+msgid "Link Background Color"
+msgstr ""
+
+#: ../customizer/options.php:1138
+msgid "Link Background Hover Color"
+msgstr ""
+
+#: ../customizer/options.php:1149
+msgid "Current Background"
+msgstr ""
+
+#: ../customizer/options.php:1158
+msgid "Font Style"
+msgstr ""
+
+#: ../customizer/options.php:1168
+msgid "Font Size"
+msgstr ""
+
+#: ../customizer/options.php:1184
+msgid "Blockquote Background Color"
+msgstr ""
+
+#: ../customizer/options.php:1193
+msgid "Blockquote Text Color"
+msgstr ""
+
+#: ../customizer/options.php:1202
+msgid "Blockquote Border Left Color"
+msgstr ""
+
+#: ../customizer/options.php:1211
+msgid "Blockquote & Testimonials Font Style"
+msgstr ""
+
+#: ../customizer/options.php:1227 ../customizer/options.php:1330
+msgid "Widget Title Color"
+msgstr ""
+
+#: ../customizer/options.php:1236 ../customizer/options.php:1437
+msgid "Widget Title Size"
+msgstr ""
+
+#: ../customizer/options.php:1255 ../customizer/options.php:1511
+msgid "Text Font Style"
+msgstr ""
+
+#: ../customizer/options.php:1265 ../customizer/options.php:1447
+#: ../customizer/options.php:1521
+msgid "Text Font Size"
+msgstr ""
+
+#: ../customizer/options.php:1296 ../customizer/options.php:1427
+msgid "Link Font Style"
+msgstr ""
+
+#: ../customizer/options.php:1321 ../customizer/options.php:1493
+msgid "Boorder Top Color"
+msgstr ""
+
+#: ../customizer/options.php:1368
+msgid "Tag Background Color"
+msgstr ""
+
+#: ../customizer/options.php:1377
+msgid "Form Border Color"
+msgstr ""
+
+#: ../customizer/options.php:1387
+msgid "Form Background Color"
+msgstr ""
+
+#: ../customizer/options.php:1397
+msgid "Form Text Color"
+msgstr ""
+
+#: ../customizer/options.php:1407
+msgid "Widget Title Font Style"
+msgstr ""
+
+#: ../customizer/options.php:1417
+msgid "Content Font Style"
+msgstr ""
+
+#: ../customizer/options.php:1457
+msgid "Footer Meta Font Size"
+msgstr ""
+
+#: ../customizer/options.php:1467
+msgid "Footer Contact Form Font Size"
+msgstr ""
+
+#: ../page-builder/blocks/alert.php:42 ../page-builder/blocks/clients.php:52
+#: ../page-builder/blocks/contact.php:59 ../page-builder/blocks/flickr.php:34
+#: ../page-builder/blocks/image.php:38 ../page-builder/blocks/slider.php:55
+#: ../page-builder/blocks/social.php:33 ../page-builder/blocks/text.php:37
+#: ../page-builder/blocks/toggle.php:50 ../page-builder/blocks/twitter.php:34
+#: ../page-builder/blocks/video.php:33
+msgid "Title (optional)"
+msgstr ""
+
+#: ../page-builder/blocks/alert.php:49
+msgid "Alert text"
+msgstr ""
+
+#: ../page-builder/blocks/alert.php:56 ../page-builder/blocks/features.php:54
+#: ../page-builder/blocks/toggle.php:122
+msgid "Icon class (optional) - "
+msgstr ""
+
+#: ../page-builder/blocks/alert.php:56 ../page-builder/blocks/features.php:54
+#: ../page-builder/blocks/toggle.php:122
+msgid "refer here"
+msgstr ""
+
+#: ../page-builder/blocks/alert.php:63 ../page-builder/blocks/clear.php:35
+msgid "Style"
+msgstr ""
+
+#: ../page-builder/blocks/alert.php:70 ../page-builder/blocks/clear.php:42
+msgid "Margin Top"
+msgstr ""
+
+#: ../page-builder/blocks/alert.php:77 ../page-builder/blocks/clear.php:49
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../page-builder/blocks/blog.php:45 ../page-builder/blocks/features.php:33
+#: ../page-builder/blocks/latestblog.php:61
+#: ../page-builder/blocks/portfolio.php:61
+#: ../page-builder/blocks/testimonials.php:40
+#: ../page-builder/blocks/title.php:33 ../shortcodes/shortcodes-editor.php:644
+msgid "Title"
+msgstr ""
+
+#: ../page-builder/blocks/blog.php:52 ../page-builder/blocks/clients.php:59
+#: ../page-builder/blocks/contact.php:66
+#: ../page-builder/blocks/features.php:40 ../page-builder/blocks/flickr.php:41
+#: ../page-builder/blocks/image.php:45
+#: ../page-builder/blocks/latestblog.php:68
+#: ../page-builder/blocks/portfolio.php:68
+#: ../page-builder/blocks/slider.php:62 ../page-builder/blocks/slogan.php:47
+#: ../page-builder/blocks/social.php:40
+#: ../page-builder/blocks/testimonials.php:47
+#: ../page-builder/blocks/text.php:44 ../page-builder/blocks/title.php:40
+#: ../page-builder/blocks/toggle.php:57 ../page-builder/blocks/twitter.php:41
+#: ../page-builder/blocks/video.php:40
+msgid "Title Size"
+msgstr ""
+
+#: ../page-builder/blocks/blog.php:59 ../page-builder/blocks/latestblog.php:75
+#: ../post-types/portfolio.php:71
+msgid "Categories"
+msgstr ""
+
+#: ../page-builder/blocks/blog.php:66
+msgid "Amount of on one page (block)"
+msgstr ""
+
+#: ../page-builder/blocks/clients.php:66
+#: ../page-builder/blocks/latestblog.php:89
+#: ../shortcodes/shortcodes-editor.php:1091
+#: ../shortcodes/shortcodes-editor.php:1244
+msgid "Column"
+msgstr ""
+
+#: ../page-builder/blocks/clients.php:108
+#: ../page-builder/blocks/slider.php:136 ../page-builder/blocks/toggle.php:107
+msgid "Open / Close"
+msgstr ""
+
+#: ../page-builder/blocks/clients.php:136
+#: ../page-builder/blocks/slider.php:166 ../page-builder/blocks/toggle.php:134
+msgid "Delete"
+msgstr ""
+
+#: ../page-builder/blocks/column.php:21 ../page-builder/blocks/column.php:42
+msgid "Drag block items into this column box"
+msgstr ""
+
+#: ../page-builder/blocks/contact.php:27 ../widget/contact.php:66
+msgid ""
+"Sorry, this block requires the <a href=\"http://wordpress.org/extend/plugins/"
+"contact-form-7/\">Contact Form 7</a> plugin to be installed & activated. "
+"Please install/activate the plugin before using this block"
+msgstr ""
+
+#: ../page-builder/blocks/contact.php:40 ../widget/contact.php:79
+msgid ""
+"You do not currently have any contact form setup. Please create a contact "
+"form before setting up this block"
+msgstr ""
+
+#: ../page-builder/blocks/contact.php:42 ../widget/contact.php:81
+msgid "Setup contact form"
+msgstr ""
+
+#: ../page-builder/blocks/contact.php:73 ../page-builder/blocks/toggle.php:64
+#: ../page-builder/blocks/video.php:47
+msgid "Content (optional)"
+msgstr ""
+
+#: ../page-builder/blocks/contact.php:80
+msgid "Choose contact form"
+msgstr ""
+
+#: ../page-builder/blocks/features.php:47 ../page-builder/blocks/text.php:51
+#: ../shortcodes/shortcodes-editor.php:1055
+msgid "Content"
+msgstr ""
+
+#: ../page-builder/blocks/features.php:61
+#: ../shortcodes/shortcodes-editor.php:679
+msgid "URL (optional)"
+msgstr ""
+
+#: ../page-builder/blocks/flickr.php:55
+#: ../shortcodes/shortcodes-editor.php:569
+msgid "Number of Photos"
+msgstr ""
+
+#: ../page-builder/blocks/googlemap.php:38
+#: ../shortcodes/shortcodes-editor.php:596
+msgid "Address"
+msgstr ""
+
+#: ../page-builder/blocks/googlemap.php:45
+msgid "Coordinates (optional)"
+msgstr ""
+
+#: ../page-builder/blocks/googlemap.php:52
+#: ../shortcodes/shortcodes-editor.php:610
+msgid "Zoom Level"
+msgstr ""
+
+#: ../page-builder/blocks/googlemap.php:59
+#: ../shortcodes/shortcodes-editor.php:617
+msgid "Map Height (in pixels)"
+msgstr ""
+
+#: ../page-builder/blocks/googlemap.php:66
+#: ../page-builder/blocks/slider.php:106
+msgid "Show Shadow"
+msgstr ""
+
+#: ../page-builder/blocks/googlemap.php:85 ../shortcodes/shortcodes.php:339
+msgid "Address was not specified"
+msgstr ""
+
+#: ../page-builder/blocks/image.php:52
+msgid "Upload an image"
+msgstr ""
+
+#: ../page-builder/blocks/image.php:63
+msgid "Height (optional)"
+msgstr ""
+
+#: ../page-builder/blocks/image.php:70
+msgid "Open in lightbox"
+msgstr ""
+
+#: ../page-builder/blocks/latestblog.php:82
+msgid "Show Latest or Popular Post"
+msgstr ""
+
+#: ../page-builder/blocks/portfolio.php:75
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../page-builder/blocks/portfolio.php:82
+msgid "Amount of on one page"
+msgstr ""
+
+#: ../page-builder/blocks/portfolio.php:89
+msgid "Portfolio Column"
+msgstr ""
+
+#: ../page-builder/blocks/portfolio.php:96
+msgid "Show Pagination"
+msgstr ""
+
+#: ../page-builder/blocks/portfolio.php:103
+msgid "Enable Filtrable"
+msgstr ""
+
+#: ../page-builder/blocks/portfolio.php:110
+msgid "Filtrable Position"
+msgstr ""
+
+#: ../page-builder/blocks/portfolio.php:117
+#: ../shortcodes/shortcodes-editor.php:948
+msgid "Image Height"
+msgstr ""
+
+#: ../page-builder/blocks/revslider.php:30
+msgid "Select Slider"
+msgstr ""
+
+#: ../page-builder/blocks/sitemap.php:37
+msgid "Blog Title"
+msgstr ""
+
+#: ../page-builder/blocks/sitemap.php:44
+msgid "Categories Title"
+msgstr ""
+
+#: ../page-builder/blocks/sitemap.php:51
+msgid "Archives Title"
+msgstr ""
+
+#: ../page-builder/blocks/sitemap.php:58
+msgid "Feeds Title"
+msgstr ""
+
+#: ../page-builder/blocks/sitemap.php:65
+msgid "Portfolio Title"
+msgstr ""
+
+#: ../page-builder/blocks/sitemap.php:72
+msgid "Page Title"
+msgstr ""
+
+#: ../page-builder/blocks/slider.php:85
+#: ../shortcodes/shortcodes-editor.php:887
+msgid "Animation"
+msgstr ""
+
+#: ../page-builder/blocks/slider.php:92
+msgid "Slideshow Speed "
+msgstr ""
+
+#: ../page-builder/blocks/slider.php:99
+msgid "Animation Speed "
+msgstr ""
+
+#: ../page-builder/blocks/slider.php:113
+msgid "Height"
+msgstr ""
+
+#: ../page-builder/blocks/slider.php:143
+msgid "Slide Title"
+msgstr ""
+
+#: ../page-builder/blocks/slider.php:149
+msgid "Upload Image"
+msgstr ""
+
+#: ../page-builder/blocks/slider.php:162
+msgid "Slide Caption"
+msgstr ""
+
+#: ../page-builder/blocks/slogan.php:33
+msgid "Welcomme Title"
+msgstr ""
+
+#: ../page-builder/blocks/slogan.php:40
+msgid "Welcome subtitle"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:47
+#: ../shortcodes/shortcodes-editor.php:705
+msgid "Enter your Facebook URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:54
+#: ../shortcodes/shortcodes-editor.php:712
+msgid "Enter your Twitter URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:61
+#: ../shortcodes/shortcodes-editor.php:719
+msgid "Enter your Dribbble URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:67
+#: ../shortcodes/shortcodes-editor.php:726
+msgid "Enter your Pinterset URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:73
+#: ../shortcodes/shortcodes-editor.php:733
+msgid "Enter your Vimeo URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:79
+#: ../shortcodes/shortcodes-editor.php:740
+msgid "Enter your Linkedin URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:85
+#: ../shortcodes/shortcodes-editor.php:747
+msgid "Enter your Google URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:91
+#: ../shortcodes/shortcodes-editor.php:754
+msgid "Enter your Flickr URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:97
+#: ../shortcodes/shortcodes-editor.php:761
+msgid "Enter your Lastfm URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:103
+#: ../shortcodes/shortcodes-editor.php:768
+msgid "Enter your Forrst URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:109
+#: ../shortcodes/shortcodes-editor.php:775
+msgid "Enter your Skype user name"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:115
+#: ../shortcodes/shortcodes-editor.php:782
+msgid "Enter your Picassa URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:121
+#: ../shortcodes/shortcodes-editor.php:789
+msgid "Enter your Youtube URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:127
+#: ../shortcodes/shortcodes-editor.php:796
+msgid "Enter your Behance URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:133
+#: ../shortcodes/shortcodes-editor.php:803
+msgid "Enter your Tumblr URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:139
+#: ../shortcodes/shortcodes-editor.php:810
+msgid "Enter your Blogger URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:145
+#: ../shortcodes/shortcodes-editor.php:817
+msgid "Enter your Delicious URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:151
+#: ../shortcodes/shortcodes-editor.php:824
+msgid "Enter your Digg URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:157
+#: ../shortcodes/shortcodes-editor.php:831
+msgid "Enter your Friendfeed URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:163
+#: ../shortcodes/shortcodes-editor.php:838
+msgid "Enter your Github URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:169
+#: ../shortcodes/shortcodes-editor.php:845
+msgid "Enter your Wordpress URL"
+msgstr ""
+
+#: ../page-builder/blocks/social.php:176
+#: ../shortcodes/shortcodes-editor.php:852
+msgid "Enter your Rss URL"
+msgstr ""
+
+#: ../page-builder/blocks/toggle.php:83 ../post-types/portfolio.php:12
+msgid "Add New"
+msgstr ""
+
+#: ../page-builder/blocks/toggle.php:89
+msgid "Tabs style"
+msgstr ""
+
+#: ../page-builder/blocks/toggle.php:115
+msgid "Tab Title"
+msgstr ""
+
+#: ../page-builder/blocks/toggle.php:129
+msgid "Tab Content"
+msgstr ""
+
+#: ../page-builder/blocks/twitter.php:48
+#: ../shortcodes/shortcodes-editor.php:527
+msgid "User name"
+msgstr ""
+
+#: ../page-builder/blocks/twitter.php:55
+#: ../shortcodes/shortcodes-editor.php:534
+msgid "Number of tweets"
+msgstr ""
+
+#: ../page-builder/blocks/video.php:54
+msgid "Embed code"
+msgstr ""
+
+#: ../post-types/portfolio.php:10 ../post-types/portfolio.php:11
+msgid "Portfolio"
+msgstr ""
+
+#: ../post-types/portfolio.php:13
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../post-types/portfolio.php:14
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../post-types/portfolio.php:15
+msgid "New Portfolio"
+msgstr ""
+
+#: ../post-types/portfolio.php:16
+msgid "View Portfolio"
+msgstr ""
+
+#: ../post-types/portfolio.php:17
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../post-types/portfolio.php:18
+msgid "Nothing found"
+msgstr ""
+
+#: ../post-types/portfolio.php:19
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: ../post-types/portfolio.php:69
+msgid "Project"
+msgstr ""
+
+#: ../post-types/portfolio.php:70
+msgid "Description"
+msgstr ""
+
+#: ../post-types/portfolio.php:72
+msgid "Year"
+msgstr ""
+
+#: ../post-types/portfolio.php:73
+msgid "Skills"
+msgstr ""
+
+#: ../post-types/portfolio.php:74
+msgid "Photo"
+msgstr ""
+
+#: ../post-types/portfolio.php:119
+msgid "Portfolio Seting"
+msgstr ""
+
+#: ../post-types/portfolio.php:127
+msgid "General Seting"
+msgstr ""
+
+#: ../post-types/portfolio.php:134
+msgid "Project Content Type:"
+msgstr ""
+
+#: ../post-types/portfolio.php:135
+msgid "Choose current project content type."
+msgstr ""
+
+#: ../post-types/portfolio.php:147
+msgid "Client Name"
+msgstr ""
+
+#: ../post-types/portfolio.php:154
+msgid "URL"
+msgstr ""
+
+#: ../post-types/portfolio.php:161
+msgid "Image & Slider Project"
+msgstr ""
+
+#: ../post-types/portfolio.php:168
+msgid "Image 1"
+msgstr ""
+
+#: ../post-types/portfolio.php:169 ../post-types/portfolio.php:178
+#: ../post-types/portfolio.php:187 ../post-types/portfolio.php:196
+#: ../post-types/portfolio.php:205 ../post-types/portfolio.php:214
+#: ../post-types/portfolio.php:223 ../post-types/portfolio.php:232
+#: ../post-types/portfolio.php:241 ../post-types/portfolio.php:250
+msgid "Upload an image or enter an URL."
+msgstr ""
+
+#: ../post-types/portfolio.php:177
+msgid "Image 2"
+msgstr ""
+
+#: ../post-types/portfolio.php:186
+msgid "Image 3"
+msgstr ""
+
+#: ../post-types/portfolio.php:195
+msgid "Image 4"
+msgstr ""
+
+#: ../post-types/portfolio.php:204
+msgid "Image 5"
+msgstr ""
+
+#: ../post-types/portfolio.php:213
+msgid "Image 6"
+msgstr ""
+
+#: ../post-types/portfolio.php:222
+msgid "Image 7"
+msgstr ""
+
+#: ../post-types/portfolio.php:231
+msgid "Image 8"
+msgstr ""
+
+#: ../post-types/portfolio.php:240
+msgid "Image 9"
+msgstr ""
+
+#: ../post-types/portfolio.php:249
+msgid "Image 10"
+msgstr ""
+
+#: ../post-types/portfolio.php:265
+msgid "Enter your video ID here:"
+msgstr ""
+
+#: ../post-types/portfolio.php:266
+msgid "If you select Youtube or Vimeo."
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:32
+msgid "Row"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:33
+msgid "Columns"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:34
+#: ../shortcodes/shortcodes-editor.php:137
+msgid "Block Title"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:35
+#: ../shortcodes/shortcodes-editor.php:179
+msgid "Alert Box"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:36
+#: ../shortcodes/shortcodes-editor.php:235
+msgid "Button"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:37
+msgid "Divider / Space"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:38
+msgid "Images"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:39
+#: ../shortcodes/shortcodes-editor.php:417
+msgid "Lists"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:40
+#: ../shortcodes/shortcodes-editor.php:489
+msgid "Icon"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:41
+#: ../shortcodes/shortcodes-editor.php:523 ../widget/twitter.php:78
+msgid "Twitter"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:42
+#: ../shortcodes/shortcodes-editor.php:557 ../widget/flickr.php:84
+msgid "Flickr"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:43
+#: ../shortcodes/shortcodes-editor.php:592
+msgid "Google Map"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:44
+#: ../shortcodes/shortcodes-editor.php:640
+#: ../shortcodes/shortcodes-editor.php:972
+msgid "Features"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:46
+#: ../shortcodes/shortcodes-editor.php:876
+#: ../shortcodes/shortcodes-editor.php:1008
+msgid "Flexslider"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:47 ../widget/video.php:70
+msgid "Video"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:48
+msgid "Testimonials"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:49
+#: ../shortcodes/shortcodes-editor.php:1080
+msgid "Client"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:50
+#: ../shortcodes/shortcodes-editor.php:1145
+msgid "Toogle"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:51
+#: ../shortcodes/shortcodes-editor.php:1203
+msgid "Accordion"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:52
+msgid "Tab"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:62
+msgid "Row Shortcodes"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:66
+msgid "Select row:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:76
+#: ../shortcodes/shortcodes-editor.php:124
+#: ../shortcodes/shortcodes-editor.php:163
+#: ../shortcodes/shortcodes-editor.php:220
+#: ../shortcodes/shortcodes-editor.php:286
+#: ../shortcodes/shortcodes-editor.php:442
+#: ../shortcodes/shortcodes-editor.php:507
+#: ../shortcodes/shortcodes-editor.php:541
+#: ../shortcodes/shortcodes-editor.php:576
+#: ../shortcodes/shortcodes-editor.php:624
+#: ../shortcodes/shortcodes-editor.php:686
+#: ../shortcodes/shortcodes-editor.php:859
+#: ../shortcodes/shortcodes-editor.php:912
+#: ../shortcodes/shortcodes-editor.php:993
+#: ../shortcodes/shortcodes-editor.php:1020
+#: ../shortcodes/shortcodes-editor.php:1105
+#: ../shortcodes/shortcodes-editor.php:1157
+#: ../shortcodes/shortcodes-editor.php:1215
+#: ../shortcodes/shortcodes-editor.php:1283
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:91
+msgid "Columns Shortcodes"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:95
+msgid "Column Type:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:98
+msgid "Column 1"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:99
+msgid "Column 2"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:100
+msgid "Column 3"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:101
+msgid "Column 4"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:102
+msgid "Column 5"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:103
+msgid "Column 6"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:104
+msgid "Column 7"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:105
+msgid "Column 8"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:106
+msgid "Column 9"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:107
+msgid "Column 10"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:108
+msgid "Column 11"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:109
+msgid "Column 12"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:111
+msgid "Select width of the column"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:116
+msgid "Column Content (optional):"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:119
+msgid "Add The column content"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:141
+msgid "Text:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:148
+msgid "Size:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:151
+#: ../shortcodes/shortcodes-editor.php:654
+msgid "H1"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:152
+#: ../shortcodes/shortcodes-editor.php:655
+msgid "H2"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:153
+#: ../shortcodes/shortcodes-editor.php:656
+msgid "H3"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:154
+#: ../shortcodes/shortcodes-editor.php:657
+msgid "H4"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:155
+#: ../shortcodes/shortcodes-editor.php:658
+msgid "H5"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:156
+#: ../shortcodes/shortcodes-editor.php:659
+msgid "H6"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:158
+msgid "Choose a size for heading"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:183
+#: ../shortcodes/shortcodes-editor.php:306
+#: ../shortcodes/shortcodes-editor.php:421
+msgid "Style:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:186
+msgid "Standard"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:187
+msgid "Info"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:188
+msgid "Notification"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:189
+msgid "Warning"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:190
+msgid "Tips"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:192
+msgid "Choose a style for alert box"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:197
+msgid "Title (optional):"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:200
+msgid "Add the title content"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:205
+#: ../shortcodes/shortcodes-editor.php:1179
+#: ../shortcodes/shortcodes-editor.php:1237
+#: ../shortcodes/shortcodes-editor.php:1305
+msgid "Content:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:208
+msgid "Add the alert box content"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:213
+#: ../shortcodes/shortcodes-editor.php:279
+#: ../shortcodes/shortcodes-editor.php:465
+#: ../shortcodes/shortcodes-editor.php:493
+#: ../shortcodes/shortcodes-editor.php:672
+msgid ""
+"Icon class (optional) <a href=\"http://fortawesome.github.com/Font-Awesome/"
+"\" target=\"_blank\">refer here</a>"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:239
+msgid "Button size:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:242
+msgid "Default"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:243
+msgid "Small"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:244
+msgid "Large"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:246
+msgid "Select the button size"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:252
+msgid "Button URL:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:255
+msgid "Add the button url eg http://example.com"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:260
+msgid "Button text:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:263
+msgid "Add the button text"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:268
+msgid "Button target:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:274
+msgid "_self = open in same window. _blank = open in new window"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:317
+msgid "Margin Top:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:324
+msgid "Margin Bottom:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:390
+msgid "Open in lightbox:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:393
+#: ../shortcodes/shortcodes-editor.php:1247
+msgid "No"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:394
+#: ../shortcodes/shortcodes-editor.php:1248
+msgid "Yes"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:424
+msgid "Square"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:425
+msgid "Circle"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:426
+msgid "Disc"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:427
+msgid "Numeric"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:428
+msgid "Unstyled"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:434
+msgid "lists Item:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:441
+msgid "Create lists Item"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:453
+msgid "List Item"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:457
+msgid "Items:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:460
+msgid "Add teh lists heading"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:472
+msgid "Add Accordion Item"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:500
+msgid "Icon Size"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:561
+msgid "Your Flickr User ID"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:603
+msgid "Coordinates"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:651
+msgid "Title size:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:665
+#: ../shortcodes/shortcodes-editor.php:934
+msgid "Text"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:701
+msgid "SOCIAL"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:880
+msgid "Slider Item:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:890
+msgid "Fade"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:891
+msgid "Slide"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:897
+msgid "Slideshow Speed"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:904
+msgid "Animation Speed"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:911
+msgid "Create slider Item"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:923
+#: ../shortcodes/shortcodes-editor.php:1030
+msgid "Slider Item"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:927
+#: ../shortcodes/shortcodes-editor.php:1120
+msgid "Images url:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:941
+msgid "Image Width"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:955
+#: ../shortcodes/shortcodes-editor.php:1062
+msgid "Add Slider Item"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:976
+msgid "Video Type:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:979
+msgid "Vimeo"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:980
+msgid "Youtube"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:986
+msgid "Video id"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1012
+msgid "Testimonials Item:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1019
+msgid "Create testimonials Item"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1034
+msgid "author:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1041
+msgid "Link"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1048
+msgid "Copmany"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1084
+msgid "Client Item:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1094
+msgid "2"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1095
+msgid "3"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1096
+msgid "4"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1097
+msgid "5"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1098
+msgid "6"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1104
+msgid "Create client item"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1116
+msgid "Client Item"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1127
+msgid "Add client Item"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1149
+msgid "Toogle Item:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1156
+msgid "Create toogle item"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1168
+msgid "Toogle Item"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1172
+#: ../shortcodes/shortcodes-editor.php:1230
+#: ../shortcodes/shortcodes-editor.php:1298 ../widget/contact.php:91
+#: ../widget/flickr.php:91 ../widget/popular-post.php:95
+#: ../widget/recent-post.php:99 ../widget/twitter.php:85
+msgid "Title:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1186
+msgid "Add toogle Item"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1207
+msgid "Accordion Item:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1214
+msgid "Create accordion item"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1226
+msgid "Accordion Item"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1254
+msgid "Add accordion Item"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1271
+msgid "tab"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1275
+msgid "Tab Item:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1282
+msgid "Create tab item"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1294
+msgid "Tab Item"
+msgstr ""
+
+#: ../shortcodes/shortcodes-editor.php:1312
+msgid "Add tab Item"
+msgstr ""
+
+#: ../widget/contact.php:15 ../widget/twitter.php:15
+msgid "A widget that displays your latest tweets."
+msgstr ""
+
+#: ../widget/contact.php:26
+msgid "Contact Widget (bingumd)"
+msgstr ""
+
+#: ../widget/contact.php:60
+msgid "Contact Form"
+msgstr ""
+
+#: ../widget/contact.php:96
+msgid "Chose contact Form:"
+msgstr ""
+
+#: ../widget/flickr.php:15
+msgid "A widget that displays your Flickr photos."
+msgstr ""
+
+#: ../widget/flickr.php:26
+msgid "Flickr Widget (bingumd)"
+msgstr ""
+
+#: ../widget/flickr.php:96
+msgid "Your Flickr User ID:"
+msgstr ""
+
+#: ../widget/flickr.php:101
+msgid "Number of Photos:"
+msgstr ""
+
+#: ../widget/popular-post.php:15
+msgid "A widget that show popular posts"
+msgstr ""
+
+#: ../widget/popular-post.php:26
+msgid "Popular Posts (designmd)"
+msgstr ""
+
+#: ../widget/popular-post.php:89
+msgid "Popular Posts"
+msgstr ""
+
+#: ../widget/popular-post.php:100 ../widget/recent-post.php:104
+msgid "Show Count"
+msgstr ""
+
+#: ../widget/recent-post.php:15
+msgid "A widget that show recent posts"
+msgstr ""
+
+#: ../widget/recent-post.php:26
+msgid "Recent Posts (designmd)"
+msgstr ""
+
+#: ../widget/recent-post.php:92
+msgid "Recent Posts Widget"
+msgstr ""
+
+#: ../widget/tab.php:15
+msgid "A tabbed widget that display popular posts, recent posts and comments."
+msgstr ""
+
+#: ../widget/tab.php:26
+msgid "Tabbed Widget (bingumd)"
+msgstr ""
+
+#: ../widget/tab.php:129 ../widget/tab.php:133
+msgid "on "
+msgstr ""
+
+#: ../widget/tab.php:171
+msgid "Popular Post Title:"
+msgstr ""
+
+#: ../widget/tab.php:175
+msgid "Recent Post Title:"
+msgstr ""
+
+#: ../widget/tab.php:179
+msgid "Comments Title:"
+msgstr ""
+
+#: ../widget/twitter.php:26
+msgid "Twitter Widget (bingumd)"
+msgstr ""
+
+#: ../widget/twitter.php:90
+msgid "Twitter Username:"
+msgstr ""
+
+#: ../widget/twitter.php:95
+msgid "Number of tweets:"
+msgstr ""
+
+#: ../widget/video.php:15
+msgid "Video Widget"
+msgstr ""
+
+#: ../widget/video.php:26
+msgid "Video Widget (designmd)"
+msgstr ""
+
+#: ../widget/video.php:81
+msgid "Video Embed Code:"
+msgstr ""

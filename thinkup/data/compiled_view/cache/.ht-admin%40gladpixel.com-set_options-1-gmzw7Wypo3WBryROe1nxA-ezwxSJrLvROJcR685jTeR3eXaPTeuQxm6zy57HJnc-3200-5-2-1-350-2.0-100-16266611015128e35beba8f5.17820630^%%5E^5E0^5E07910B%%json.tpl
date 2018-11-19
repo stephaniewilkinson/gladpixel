@@ -1,0 +1,19 @@
+129
+a:4:{s:8:"template";a:1:{s:8:"json.tpl";b:1;}s:9:"timestamp";i:1361634250;s:7:"expires";i:1361634850;s:13:"cache_serials";a:0:{}}{
+    "status":"success",
+    "results":{
+        "updated":9,
+        "inserted":{
+            "oauth_consumer_key":3,
+            "oauth_consumer_secret":4,
+            "archive_limit":5,
+            "num_twitter_errors":6,
+            "favs_older_pages":7,
+            "favs_cleanup_pages":8,
+            "max_api_calls_per_crawl":9,
+            "api_calls_to_leave_unmade_per_minute":10,
+            "tweet_count_per_call":11
+        },
+        "deleted":0
+    }
+}

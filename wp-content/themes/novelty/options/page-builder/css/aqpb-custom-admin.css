@@ -1,0 +1,80 @@
+/* Slider Blocks */
+.block-slider-slide {
+	background: #fff;
+	border: 1px solid #d8d8d8;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+.block-slider-slides-list {
+	position: relative;
+}
+.block-slider-slide-head,
+.block-slider-slide-body {
+	padding: 10px;
+	position: relative;
+}
+	.block-slider-slide-title {
+		margin-right: 20px;
+		float: left;
+	}
+	.block-slider-slide-body {
+		padding-top: 0;
+		display: none;
+	}
+
+.block-slider-slide-head-handle {
+	float: right;
+}
+	.block-slider-slide-head-handle a {
+		position: absolute;
+		right: 0px;
+		top: 0;
+		display: block;
+		width: 30px;
+		height: 30px;
+		text-indent: -999em;
+		background: transparent url(../images/tab-arrows.png) no-repeat 8px -64px;
+		border-bottom-color: #eee;
+	}
+		.block-slider-slide-head-handle a:hover {
+			background-position: 8px 0px;
+		}
+.block-tabs-add-new {
+	margin-top: 10px;
+}
+.block-slider-slide-delete {
+	font-style: normal;
+}
+	
+
+
+.block-settings .description, .block-settings p{ margin: 5px 0 15px; }
+p.help, 
+p.description, 
+span.description, 
+.form-wrap p{
+    color: #4B4B4B;
+    font-family: sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    font-style: normal;
+}
+
+#page-builder input[type="text"]{ padding: 10px; }
+#page-builder select{ 
+	height: auto;
+	padding: 10px 9px; 
+}
+
+#page-builder input,
+#page-builder select,
+#page-builder textarea{ 
+	margin-top: 5px;
+	font-weight: 400;
+	color: #717171;
+	font-size: 12px;
+	text-transform: none;
+}
+
+#page-builder .button.button-primary{ color: #fff; } 
